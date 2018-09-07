@@ -1,0 +1,21 @@
+set $wallpaper sea.jpg
+
+set $background #f0f5f3
+set $foreground #24645f
+
+set $color0 #f0f5f3
+set $color1 #3D7482
+set $color2 #6F8C91
+set $color3 #59838A
+set $color4 #657D84
+set $color5 #4F7A84
+set $color6 #759AA6
+set $color7 #b6cfd7
+set $color8 #7f9096
+set $color9 #3D7482
+set $color10 #6F8C91
+set $color11 #59838A
+set $color12 #657D84
+set $color13 #4F7A84
+set $color14 #759AA6
+set $color15 #24645f

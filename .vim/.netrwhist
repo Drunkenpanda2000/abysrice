@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/drunkenpanda/.config/i3'
+let g:netrw_dirhist_2='/home/drunkenpanda/.cache'
+let g:netrw_dirhist_3='/home/drunkenpanda/.cache/fontconfig'
+let g:netrw_dirhist_4='/home/drunkenpanda/.zprezto/modules/prompt/functions'
+let g:netrw_dirhist_5='/home/drunkenpanda/.config/i3blocks'
+let g:netrw_dirhist_6='/home/drunkenpanda/.config'
+let g:netrw_dirhist_7='/home/drunkenpanda/.config/polybar'
+let g:netrw_dirhist_8='/home/drunkenpanda/.zprezto/modules/prompt'

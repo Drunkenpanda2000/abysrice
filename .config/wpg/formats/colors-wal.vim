@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "sea.jpg"
+let background = "#f0f5f3"
+let foreground = "#24645f"
+let cursor     = "#24645f"
+
+" Colors
+let color0  = "#f0f5f3"
+let color1  = "#3D7482"
+let color2  = "#6F8C91"
+let color3  = "#59838A"
+let color4  = "#657D84"
+let color5  = "#4F7A84"
+let color6  = "#759AA6"
+let color7  = "#b6cfd7"
+let color8  = "#7f9096"
+let color9  = "#3D7482"
+let color10 = "#6F8C91"
+let color11 = "#59838A"
+let color12 = "#657D84"
+let color13 = "#4F7A84"
+let color14 = "#759AA6"
+let color15 = "#24645f"
